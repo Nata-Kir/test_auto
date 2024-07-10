@@ -8,5 +8,5 @@ Replace the tip of the current branch by creating a new commit. The recorded tre
 # What's the difference between **GIT PULL** and **GIT FETCH**?
 Unlike git pull, fetching allows you to review changes before committing them to your local branch.
 For more information browse the article [Git Fetch vs Pull: What's the Difference Between the Git Fetch and Git Pull Commands?](https://www.freecodecamp.org/news/git-fetch-vs-pull/).
-
+💻 🔰 💙
 
