@@ -1,0 +1,84 @@
+commit c8461c061ad9ff957bc4e7ad0c10ada11ef3d75d
+Author: NataZakharenka <natallia.kirsanava@gmail.com>
+Date:   Fri Jul 19 18:49:24 2024 +0300
+
+    HT1.2.3/deleted help file
+    ase enter the commit message for your changes. Lines starting
+
+commit bb01a9343404f4a166890b15d43d4ce775d57a3a
+Author: Nata-Kir <149435172+Nata-Kir@users.noreply.github.com>
+Date:   Fri Jul 19 18:47:36 2024 +0300
+
+    Rename file.gitignore to .gitignore
+
+commit 7af7a1f189622e93827e3db6687db2fe2fc2a7d4
+Author: NataZakharenka <natallia.kirsanava@gmail.com>
+Date:   Thu Jul 18 11:35:30 2024 +0300
+
+    HT1.2.3/modified ignore and added help file
+
+commit 8c9dad7fdcdde09018b6dca13f6fa00b9b6ba66f
+Author: NataZakharenka <natallia.kirsanava@gmail.com>
+Date:   Wed Jul 17 12:06:21 2024 +0300
+
+    HT1.2.2/added git ignore file
+
+commit acf6911ef41322bc52e8c84446b9dd9068037870
+Author: Nata-Kir <149435172+Nata-Kir@users.noreply.github.com>
+Date:   Wed Jul 10 17:28:02 2024 +0300
+
+    Update readme.md with emojies
+
+commit e540afbd83883e71a68ca1b74312032f2b874a8a
+Author: Nata-Kir <149435172+Nata-Kir@users.noreply.github.com>
+Date:   Wed Jul 10 17:09:28 2024 +0300
+
+    Updated readme.md new order
+
+commit c80aaf662530d28fb75427329599993836ae7d6d
+Author: Nata-Kir <149435172+Nata-Kir@users.noreply.github.com>
+Date:   Wed Jul 10 17:08:23 2024 +0300
+
+    Updated readme.md with new command
+
+commit e9bdb1565363e812a1c5357f034d3f14c6e03ff8
+Author: NataZakharenka <natallia.kirsanava@gmail.com>
+Date:   Wed Jul 10 16:50:17 2024 +0300
+
+    checking author of the file
+
+commit 2e67b799ddf5618a61105d69640248e16b5fe962
+Author: alexei.zakharenko <alexei.zakharenko@predica.pl>
+Date:   Wed Jul 10 16:41:58 2024 +0300
+
+    changed the link in readme
+
+commit 0bd0394c5f039c8a10fd8dce1f0684606215d3c9
+Author: alexei.zakharenko <alexei.zakharenko@predica.pl>
+Date:   Wed Jul 10 16:39:20 2024 +0300
+
+    modified readme file
+
+commit 7ed2cf3ff2c1b5963f3dc09473e0fbd93e89d173
+Author: alexei.zakharenko <alexei.zakharenko@predica.pl>
+Date:   Wed Jul 10 16:36:16 2024 +0300
+
+    redme file is added
+
+commit 452d324992ba18bcb98193907f120201aa647bfa
+Author: alexei.zakharenko <alexei.zakharenko@predica.pl>
+Date:   Tue Jul 9 23:28:12 2024 +0300
+
+    changed test data
+
+commit 36d4ec541517da06fee336bcb8ee231a3746c2c1
+Author: alexei.zakharenko <alexei.zakharenko@predica.pl>
+Date:   Tue Jul 9 20:36:17 2024 +0300
+
+    added second file
+
+commit d7554b8b55b3de4b48670e8e2d842ad9227ffd9e
+Author: alexei.zakharenko <alexei.zakharenko@predica.pl>
+Date:   Tue Jul 9 20:05:58 2024 +0300
+
+    added all files of project
